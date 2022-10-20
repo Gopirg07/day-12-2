@@ -1,0 +1,26 @@
+.box{
+    margin-top: 100px;
+}
+.cont{ 
+    border: solid 2px black;
+    padding-top: 25px;
+    margin-bottom: 25px;
+} 
+.head{
+    border: solid 2px black; 
+    text-align: center;
+    margin-top: 25px;
+    margin: auto;
+    width: 50%;
+} 
+.event{  
+    padding: 10px;
+    border: solid 2px black;
+    margin: 25px;
+    margin-left: 50px;
+    text-align: center;
+}   
+img{
+    height: 50px;
+    width: 150px;
+} 
